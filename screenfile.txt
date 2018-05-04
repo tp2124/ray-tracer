@@ -1,0 +1,73 @@
+6
+amb: 0.3 0.3 0.3
+transperancy
+ON
+transCol: 0.0
+sphere
+
+pos: 0.0 0.0 -2.0
+
+rad: 0.5
+
+dif: 0.9 0.3 0.3
+
+spe: 0.5 0.5 0.5
+shi: 1
+
+transperancy
+OFF
+sphere
+
+pos: 5.0 3.0 -14.0
+
+rad: 2.0
+dif: 0.3 0.3 0.9
+
+spe: 0.5 0.5 0.5
+shi: 3
+transperancy
+ON
+transCol: 0.1
+triangle
+pos: -2.5 3.5 -7.0
+nor: 1.5 0.0 1.0
+dif: 0.7 0.2 0.5
+spe: 0.5 0.5 0.5
+shi: 0.5
+pos: -2.5 -2.5 -10.5
+nor: -0.5 0.0 1.0
+dif: 1.3 0.7 0.2
+spe: 0.5 0.5 0.5
+shi: 0.5
+pos: 3.5 3.5 -6.0
+nor: 1.0 0.5 1.0
+dif: 0.2 0.3 0.7
+spe: 0.5 0.5 0.5
+shi: 0.5
+transperancy
+OFF
+triangle
+pos: -20.5 30.5 -20.0
+nor: 1.0 0.0 1.0
+dif: 0.7 0.2 0.5
+spe: 0.5 0.5 0.5
+shi: 0.5
+pos: -10.5 -30.5 -20.0
+nor: 1.0 0.5 1.0
+dif: 0.3 0.7 0.2
+spe: 0.5 0.5 0.5
+shi: 0.5
+pos: 30.5 30.5 -20.0
+nor: 1.0 0.5 1.0
+dif: 0.2 0.3 0.7
+spe: 0.5 0.5 0.5
+shi: 0.5
+light
+
+pos: 5 0 -2
+col: 1 1 1
+
+light
+
+pos: -5 2 0
+col: 1 1 1

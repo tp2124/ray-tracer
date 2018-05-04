@@ -1,0 +1,43 @@
+4
+amb: 0.3 0.3 0.3
+transperancy
+ON
+transCol: 0.0
+sphere
+
+pos: 0.0 0.0 -7.0
+
+rad: 2
+dif: 0.9 0.3 0.3
+
+spe: 0.5 0.5 0.5
+shi: 1
+transperancy
+OFF
+sphere
+
+pos: -3.0 1.0 -10.0
+
+rad: 3
+dif: 0.3 0.3 0.9
+
+spe: 0.9 0.5 0.5
+shi: 1
+sphere
+
+pos: 0.0 -5.0 -14.0
+
+rad: 3
+dif: 0.3 0.9 0.2
+
+spe: 0.9 0.5 0.5
+shi: 1
+light
+
+pos: 0 0 0
+col: 1 1 1
+
+light
+
+pos: 0 -2 -6
+col: 1 1 1
